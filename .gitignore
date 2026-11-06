@@ -1,0 +1,20 @@
+# Game data must NEVER be committed
+game/
+*.upk
+*.bik
+*.exe
+*.dll
+*.bin
+*.pak
+# Build output
+.gradle/
+build/
+*.apk
+*.aab
+local.properties
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+__pycache__/
+*.pyc
